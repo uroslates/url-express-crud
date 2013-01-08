@@ -28,6 +28,16 @@ More information about the library and how to use it can be found on [Uroš Late
 
 
 
+## Usefull Links
+
+* [url-express-crud](https://github.com/uroslates/url-express-crud) - library's source code.  
+	* [documented code](http://uroslates.github.com/url-express-crud/docs/url-express-crud.html) - library's documented source code.
+* [url-express-crud](https://npmjs.org/package/url-express-crud) - on npm registry
+* [url-express-crud-example](https://github.com/uroslates/url-express-crud-example) - example application using the library.
+* [Blog post](http://uroslates.com) describing the library.
+
+
+
 ## Author
 
 [Uroš Lates](http://uroslates.com)
