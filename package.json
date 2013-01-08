@@ -1,0 +1,30 @@
+{
+  "name": "url-express-crud",
+  "version": "0.0.0",
+  "description": "URL express resource CRUD helper, helping you simply and quickly expose basic CRUD operations for your express projecs",
+  "author": {
+    "name": "Uroš Lates",
+    "email": "uroslates@gmail.com",
+    "url": "http://uroslates.com"
+  },
+  "homepage": "http://uroslates.com/blog/url-express-crud",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt-docco": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uroslates/url-express-crud.git"
+  },
+  "keywords": [
+    "crud",
+    "express",
+    "url"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jharding/grunt-less/blob/master/LICENSE-MIT"
+    }
+  ]
+}
